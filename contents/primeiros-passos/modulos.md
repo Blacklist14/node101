@@ -38,7 +38,7 @@ Agora ao invés do `console.log` nativo podemos usar um log mais completo.
 ```javascript
 // index.js
 
-import logger from 'node-color-log'
+const looger = require('node-color-log')
 
 logger.info("He4rtDevs!!");
 ```
